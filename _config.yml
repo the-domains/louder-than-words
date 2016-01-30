@@ -1,6 +1,6 @@
 name: Louder Than Words
 favicon: null
-layout_spectrum: 0.24761
+layout_spectrum: 0
 typography_spectrum: 0.91527
 title: Automotive Literary Solipsism.
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 1
   lightness: 0.5
   saturation: 1
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
