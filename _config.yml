@@ -23,7 +23,7 @@ color:
     - '#a5000c'
     - '#fe2830'
   brandStrength: 0
-  lightness: 0.8224218329414725
-  saturation: 0.3211658103391528
-  rhythmicContrast: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
