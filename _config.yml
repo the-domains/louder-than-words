@@ -1,0 +1,28 @@
+name: Louder Than Words
+favicon: null
+layout_spectrum: 0.7080263551324606
+typography_spectrum: 0.7739810715429485
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.979682378936559
+  lightness: 0.8224218329414725
+  saturation: 0.3211658103391528
+  rhythmicContrast: 0.6349449339322746
+purpose: []
