@@ -1,20 +1,4 @@
-name: Louder Than Words
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.13842
-title: AUTOMOTIVE LITERARY SOLIPSISM.
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#452c18'
@@ -26,4 +10,21 @@ color:
   lightness: 0
   saturation: 0.5
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Louder Than Words
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: AUTOMOTIVE LITERARY SOLIPSISM.
+description: AUTOMOTIVE LITERARY SOLIPSISM.
 purpose: []
